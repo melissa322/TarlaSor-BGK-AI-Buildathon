@@ -2,9 +2,9 @@
 
 Türkiye'deki çiftçiler için AI destekli toprak ve su kalitesi analiz asistanı.
 
-##Problem
+## Problem
 Dünya genelinde 500 milyondan fazla küçük çiftçi, toprak ve sulama suyu test sonuçlarını yorumlayamadığı için yanlış kararlar alıyor ve toprağını giderek çoraklaştırıyor. Bu hem küresel bir çevre krizi hem de derin bir fırsat eşitsizliği — büyük çiftlikler tarım danışmanı tutabilirken küçük çiftçi tahminle ilerliyor.
-##Çözüm
+## Çözüm
 TarlaSor, çiftçinin belirti anlatması, fotoğraf çekmesi veya lab değeri girmesiyle anında sade dilde analiz ve somut eylem önerisi sunan AI destekli bir tarım asistanıdır. Şu an Türkçe hizmet veriyor, hedef ilerleyen süreçte İngilizce, Arapça ve Hintçe dil desteğiyle global küçük çiftçilere ulaşmak.
 
 ## Canlı Demo
