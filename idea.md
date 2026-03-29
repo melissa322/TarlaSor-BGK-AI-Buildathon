@@ -2,11 +2,11 @@
 
 ## Problem
 
-Türkiye'deki küçük ve orta ölçekli çiftçiler, tarlalarında gördükleri sorunları — sararan yapraklar, kuruyan bitkiler, verimsizleşen toprak — ne olduğunu, neden olduğunu ve ne yapmaları gerektiğini bilmeden yaşıyor. Tarım uzmanına ulaşmak zaman alıyor, pahalı veya her bölgede mümkün değil. Lab sonucu olan çiftçi ise elindeki pH, EC, SAR gibi değerlerin ne anlama geldiğini yorumlayamıyor.
+Türkiye'de başlayarak global küçük-orta ölçekli çiftçiler, tarlalarında gördükleri sorunları — sararan yapraklar, kuruyan bitkiler, verimsizleşen toprak — ne olduğunu, neden olduğunu ve ne yapmaları gerektiğini bilmeden yaşıyor. Tarım uzmanına ulaşmak zaman alıyor, pahalı veya her bölgede mümkün değil. Lab sonucu olan çiftçi ise elindeki pH, EC, SAR gibi değerlerin ne anlama geldiğini yorumlayamıyor.
 
 ## Kullanıcı
 
-Türkiye'de küçük ve orta ölçekli araziye sahip çiftçiler. Akıllı telefonu var ancak teknik tarım bilgisi yok. İki farklı şekilde uygulamaya gelebilir:
+Türkiye'de başlayarak küçük ve orta ölçekli araziye sahip global çiftçiler. Akıllı telefonu var ancak teknik tarım bilgisi yok. İki farklı şekilde uygulamaya gelebilir:
 
 - **Belirti ile gelenler:** "Yapraklarım sararıyor", "sulama yaptıkça daha da kötüleşiyor" gibi gözlemlerini anlatır veya fotoğraf çeker.
 - **Lab sonucu ile gelenler:** Elinde toprak veya su test raporu var ama pH, EC, SAR gibi değerlerin ne anlama geldiğini bilmiyor, değerleri girer.
